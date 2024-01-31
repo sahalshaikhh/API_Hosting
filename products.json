@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Modern Living Room Set",
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=1769&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Sleek and minimalist living room furniture for a modern interior.",
+    "category": "Modern"
+  },
+  {
+    "name": "Roman Inspired Dining Table",
+    "image": "https://images.unsplash.com/photo-1589591830600-7ba977995a5b?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Elegant dining table with Roman-inspired design for a classical interior.",
+    "category": "Roman"
+  },
+  {
+    "name": "Modern Bedroom Decor",
+    "image": "https://images.unsplash.com/photo-1462530260150-162092dbf011?q=80&w=1986&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Contemporary bedroom decor with clean lines and modern aesthetics.",
+    "category": "Modern"
+  },
+  {
+    "name": "Roman Style Wall Art",
+    "image": "https://images.unsplash.com/photo-1704972087620-9c9821013481?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Artistic wall decor inspired by Roman architecture for a timeless touch.",
+    "category": "Roman"
+  },
+  {
+    "name": "Modern Kitchen Accessories",
+    "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Functional and stylish kitchen accessories for a modern kitchen.",
+    "category": "Modern"
+  },
+  {
+    "name": "Roman Inspired Sofa Set",
+    "image": "https://images.unsplash.com/photo-1495754149474-e54c07932677?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Opulent sofa set with intricate Roman-inspired details for a touch of grandeur.",
+    "category": "Roman"
+  },
+  {
+    "name": "Modern Glass Dining Table",
+    "image": "https://images.unsplash.com/photo-1629079447841-d04df9ee2d72?q=80&w=1769&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Sleek dining table with a glass top, perfect for a modern and sophisticated dining area.",
+    "category": "Modern"
+  },
+  {
+    "name": "Roman Empire Bed Frame",
+    "image": "https://images.unsplash.com/photo-1629079447841-d04df9ee2d72?q=80&w=1769&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Recreate the grandeur of the Roman Empire with this luxurious bed frame design.",
+    "category": "Roman"
+  },
+  {
+    "name": "Minimalist Modern Office Desk",
+    "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Boost productivity with a minimalist modern office desk featuring clean lines.",
+    "category": "Modern"
+  },
+  {
+    "name": "Roman Pillar Bookshelf",
+    "image": "https://images.unsplash.com/photo-1530608031805-8e170c1b793a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Display your collection with elegance using this Roman pillar-inspired bookshelf.",
+    "category": "Roman"
+  },
+  {
+    "name": "Chic Modern Lounge Chair",
+    "image": "https://images.unsplash.com/photo-1484301548518-d0e0a5db0fc8?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Enhance your living space with a chic and comfortable modern lounge chair.",
+    "category": "Modern"
+  },
+  {
+    "name": "Roman Mosaic Coffee Table",
+    "image": "https://images.unsplash.com/photo-1498603536246-15572faa67a6?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Bring ancient artistry into your home with a Roman mosaic-inspired coffee table.",
+    "category": "Roman"
+  },
+  {
+    "name": "Modern Wall-Mounted Entertainment Unit",
+    "image": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?q=80&w=1769&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Organize your space with a stylish and functional wall-mounted entertainment unit.",
+    "category": "Modern"
+  },
+  {
+    "name": "Roman Inspired Vanity Mirror",
+    "image": "https://images.unsplash.com/photo-1595514534892-a1ce92ee8677?q=80&w=1983&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Add a touch of Roman elegance to your dressing area with this inspired vanity mirror.",
+    "category": "Roman"
+  },
+  {
+    "name": "Eco-Friendly Modern Outdoor Furniture",
+    "image": "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Enjoy the outdoors sustainably with eco-friendly modern outdoor furniture.",
+    "category": "Modern"
+  },
+  {
+    "name": "Ancient Rome-Inspired Dining Chair",
+    "image": "https://images.unsplash.com/photo-1491566102020-21838225c3c8?q=80&w=1922&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Capture the essence of Ancient Rome with this intricately designed dining chair.",
+    "category": "Roman"
+  },
+  {
+    "name": "Urban Loft Modern Sofa",
+    "image": "https://images.unsplash.com/photo-1515852216175-927860d2be80?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Contemporary sofa perfect for an urban loft setting, combining style and comfort.",
+    "category": "Modern"
+  },
+  {
+    "name": "Roman Column Side Table",
+    "image": "https://images.unsplash.com/photo-1491336440196-6d4fee45a05e?q=80&w=1771&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Elevate your space with a side table inspired by the majestic columns of ancient Rome.",
+    "category": "Roman"
+  },
+  {
+    "name": "Sleek Modern Office Chair",
+    "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Enhance your workspace with a sleek and ergonomic modern office chair.",
+    "category": "Modern"
+  },
+  {
+    "name": "Roman Inspired Wall Sconce",
+    "image": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Illuminate your space with the timeless charm of a Roman-inspired wall sconce.",
+    "category": "Roman"
+  },
+  {
+    "name": "Scandinavian Modern Coffee Table",
+    "image": "https://images.unsplash.com/photo-1560448204-603b3fc33ddc?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Simple and functional coffee table inspired by Scandinavian design principles.",
+    "category": "Modern"
+  },
+  {
+    "name": "Roman Laurel Wreath Mirror",
+    "image": "https://images.unsplash.com/photo-1502920924215-5646fe685bef?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Add a touch of history to your decor with a mirror inspired by Roman laurel wreaths.",
+    "category": "Roman"
+  },
+  {
+    "name": "Mid-Century Modern Armchair",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=1916&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Classic mid-century modern armchair that brings retro charm to any room.",
+    "category": "Modern"
+  },
+  {
+    "name": "Roman Mosaic Accent Table",
+    "image": "https://images.unsplash.com/photo-1505935428862-770b6f24f629?q=80&w=1767&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Introduce artistic flair with a Roman mosaic-inspired accent table for your space.",
+    "category": "Roman"
+  },
+  {
+    "name": "Floating Modern Media Console",
+    "image": "https://images.unsplash.com/photo-1515923256482-1c04580b477c?q=80&w=1936&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "desc": "Create a contemporary entertainment space with a floating modern media console.",
+    "category": "Modern"
+  }
+]
